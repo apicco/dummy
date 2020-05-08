@@ -9,9 +9,13 @@ to see here b1 would be mapped,
 <code> git branch -a </code>
 outputed: 
 <code>
-* b1
-  master
-  remotes/origin/HEAD -> origin/master
-  remotes/origin/b1
-  remotes/origin/master
+\* b1
+
+master
+
+remotes/origin/HEAD -> origin/master
+
+remotes/origin/b1
+
+remotes/origin/master
 </code>
