@@ -5,4 +5,5 @@ if not tired :
 	tired = True
 
 if tired : 
-	print( "go to slep" )
+	print( "keep partying" )
+	print( "keep partying" )
